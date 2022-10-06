@@ -4,5 +4,5 @@
 - ⚔️ I love challenges. <br>
 - 🗺️ I am open to new realities. <br>
 - 🗞️ I really want to learn. <br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/francesco-panico-547701252/" target="_blank">Linkedin</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/francesco-panico-547701252/">Linkedin</a>
 
